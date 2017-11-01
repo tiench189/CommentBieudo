@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="807c3b57-e4c3-44ea-a671-13661ce760db" name="35.194.202.180" url="http://35.201.146.155">
+        <fileTransfer host="35.201.146.155" port="22" rootFolder="/home/chart.comment" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

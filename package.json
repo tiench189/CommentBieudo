@@ -1,0 +1,27 @@
+{
+  "name": "bieudocmt",
+  "version": "1.0.0",
+  "description": "Comment",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.1",
+    "init": "^0.1.2",
+    "mongo": "^0.1.0",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiench189/CommentBieudo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiench189/CommentBieudo/issues"
+  },
+  "homepage": "https://github.com/tiench189/CommentBieudo#readme"
+}
